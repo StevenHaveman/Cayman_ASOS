@@ -2,10 +2,10 @@
 # Website Configuration!
 #
 
+theme: jekyll-theme-cayman
+
 title: A State Of Systems
 description: A Systems Engineering Blog by Steven Haveman
-
-theme: jekyll-theme-cayman
 
 footer-links:
   email: stevenhaveman@gmail.com
