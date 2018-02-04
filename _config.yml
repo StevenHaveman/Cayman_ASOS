@@ -1,3 +1,28 @@
-theme: jekyll-theme-cayman
+#
+# Website Configuration!
+#
+
+name: A State of Systems
 title: A State Of Systems
 description: A Systems Engineering Blog by Steven Haveman
+
+theme: jekyll-theme-cayman
+
+footer-links:
+  email: stevenhaveman@gmail.com
+  linkedin: https://www.linkedin.com/in/stevenhaveman/
+  twitter: haveman
+  
+ url: www.astateofsystems.com
+ 
+ gems:
+  - jekyll-sitemap
+  - jekyll-feed
+ 
+ exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  
