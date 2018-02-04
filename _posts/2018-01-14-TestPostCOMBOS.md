@@ -1,8 +1,8 @@
 ---
 title: COMBOS: communicating behavior of systems: incorporating simulations in conceptual system design
-category: System Engineering
+categories: [System Engineering, Simulation]
+date: 2018-04-01
 ---
-
 
 # COMBOS: communicating behavior of systems: incorporating simulations in conceptual system design
 
