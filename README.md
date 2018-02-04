@@ -11,7 +11,7 @@ Steven
 
 # Structure
 
-*Footer with content
+* Footer with content
 
 # Pages & Organization
 
