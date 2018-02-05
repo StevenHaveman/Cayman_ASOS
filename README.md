@@ -1,4 +1,4 @@
-## Welcome!
+# Welcome!
 
 This github project serves my personal/professional blog - [A State of Systems](http://www.astateofsystems.com)
 
@@ -7,13 +7,13 @@ If there are any questions, you can contact me via GitHub.
 Cheers!
 Steven
 
-## To-DO
+# To-Do
 
-# Structure
+## Structure
 
 * Footer with content
 
-# Pages & Organization
+## Pages & Organization
 
 Create separate pages for categories (categories for posts I guess)
 
@@ -23,12 +23,12 @@ Create separate pages for categories (categories for posts I guess)
   * Maybe some nature photography
 4. About page
 
-# Design
+## Design
 
 * Change graphic design
 * Change layout
 
-# Features
+## Features
 
 * Create e-mail sign-up list or some way for people to get updates
 * Cross-posting to LinkedIn (API connection? - or just manual of course :) )
